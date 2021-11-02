@@ -3,6 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,python,venv,macos,windows,visualstudiocode,openframeworks+visualstudio,jenv
 
 /my_environments/
+settings.py
 
 ### Django ###
 *.log
